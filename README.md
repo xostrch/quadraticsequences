@@ -1,2 +1,2 @@
-# quadraticsequences
-the quadratic sequences
+# the quadratic sequences
+the quadratic sequences javascript/css/html
