@@ -1,0 +1,2 @@
+# quadraticsequences
+the quadratic sequences
